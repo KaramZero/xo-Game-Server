@@ -1,0 +1,9 @@
+.list-view {
+    -fx-background-radius: 20;
+    -fx-padding: 12;
+    
+}
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    -fx-background-radius: 20;
+}
+

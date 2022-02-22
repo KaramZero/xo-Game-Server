@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="XOGameServer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/XOGameServer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
